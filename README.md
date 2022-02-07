@@ -1,1 +1,1 @@
-# simon_game
+A wonderful memory based game to test human mind's concentration and memory.The game starts with a sequence of length one and as the level increases player has to remember longer  patterns to advance to further levels.
